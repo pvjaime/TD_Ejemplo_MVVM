@@ -49,4 +49,10 @@ dependencies {
     //Dependencia a OKHttp
     implementation(libs.okhttp)
 
+    //Implementacion de Retrofit2
+    implementation(libs.retrofit)
+
+    //Implementacion de Converter Gson
+    implementation(libs.converter.gson)
+
 }
